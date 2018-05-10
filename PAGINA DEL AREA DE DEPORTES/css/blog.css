@@ -1,0 +1,13 @@
+#blog h2{
+	text-align: right;
+
+}
+
+#blog .contenedor{
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+
+
